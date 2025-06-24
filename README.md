@@ -24,7 +24,7 @@
 
 ### 📫 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/s-asifa-896741250/)
 - 📬 asifareh8@gmail.com
 - 🛠️ [My Portfolio](https://github.com/asifa1510)
 
@@ -37,5 +37,5 @@
 
 ### Currently working on
 <a href="https://github.com/asifa/DiffQuantumQR"><img src="https://img.shields.io/badge/DiffQuantumQR-Adversarial_QR_Detection-green" /></a>
-<a href="https://github.com/asifa1510/RoverFailurePredictor"><img src="https://img.shields.io/badge/Rover_Predictive_Maintenance" /></a>
+<a href="https://github.com/asifa1510/RoverFailurePredictor"><img src="https://img.shields.io/badge/Rover_Predictive_Maintenance-white" /></a>
 
