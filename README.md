@@ -31,7 +31,6 @@
 ---
 
 ### 📌 Featured Repositories
+<a href="https://github.com/asifa1510/LightningStrikeRisk"><img src="https://img.shields.io/badge/Lightning_Risk_AI-Aviation_Safety-blue" /></a>
 
 <a href="https://github.com/asifa/DiffQuantumQR"><img src="https://img.shields.io/badge/DiffQuantumQR-Adversarial_QR_Detection-green" /></a>
-<a href="https://github.com/asifa/LightningRiskAI"><img src="https://img.shields.io/badge/Lightning_Risk_AI-Aviation_Safety-blue" /></a>
-<a href="https://github.com/asifa/SafeFlightRouting"><img src="https://img.shields.io/badge/Safe_Flight_Routing-React_Flight_Tracker-red" /></a>
