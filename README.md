@@ -5,7 +5,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About  Me
 
 - 🎓M.Tech CSE Student passionate about deep learning and AI research
 - 🧪 Currently researching **Adversarial QR Code Security** & **Lightning Strike Prediction** for aviation safety
