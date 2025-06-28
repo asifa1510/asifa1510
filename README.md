@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Asifa</h1>
 <p align="center">
-  <em>CS Undergrad | Researcher in Machine Learning </em>
+  <em>CS Undergrad | Researcher in Machine Learning </em> 
 </p>
 
 ---
