@@ -7,7 +7,7 @@
 
 ### 🧠 About Me
 
-- 🎓M.Tech CSE Student passionate about deep learning and AI research
+- 🎓M.Tech CSE Student @ VIT, passionate about deep learning and AI research
 - 🧪 Currently researching **Adversarial QR Code Security** & **Lightning Strike Prediction** for aviation safety
 - ⚡ Exploring the intersection of **Cybersecurity**, **Computer Vision**, **Machine Learning** and **Self-Supervised Learning**
 
