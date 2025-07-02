@@ -40,3 +40,12 @@
 <a href="https://github.com/asifa/DiffQuantumQR"><img src="https://img.shields.io/badge/DiffQuantumQR-Adversarial_QR_Detection-green" /></a>
 <a href="https://github.com/asifa1510/RoverFailurePredictor"><img src="https://img.shields.io/badge/Rover_Predictive_Maintenance-white" /></a>
 
+
+# Your Name's GitHub Profile
+
+## GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifa1510&show_icons=true&theme=dark)
+
+## Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifa1510&layout=compact&theme=dark)
+
