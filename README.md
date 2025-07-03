@@ -48,4 +48,4 @@
 ## GitHub Stats:
 ![Asifa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asifa1510&show_icons=true&theme=radical)
 ## Most Used Languages:
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asifa1510&langs_count=20&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifa1510&theme=radical&layout=compact)
