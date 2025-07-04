@@ -3,21 +3,11 @@
   <em>CS Undergrad | Researcher in Machine Learning </em> 
 </p>
 
- 
----
 - 🎓M.Tech CSE Student @ VIT, passionate about deep learning and AI research
-- ⚡ Exploring the intersection of **Cybersecurity**, **Computer Vision**, **Machine Learning** and **AI**
----
-
----
- 
-### 📫 Let's Connect
-
+- ⚡ Exploring the intersection of **Cybersecurity**, **Computer Vision**, **Machine Learning** and **AI** 
+## 📫 Let's Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/s-asifa-896741250/)
 - 📬 asifareh8@gmail.com
-
----
-
 ### 📌 Featured Repositories
 <a href="https://github.com/asifa1510/LightningStrikeRisk"><img src="https://img.shields.io/badge/Lightning_Risk_AI-Aviation_Safety-blue" /></a>
 <a href="https://github.com/asifa1510/PCAPClassifier"><img src="https://img.shields.io/badge/PCAP_classification-Network_packets_traffic" /></a>
