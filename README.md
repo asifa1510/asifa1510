@@ -5,20 +5,8 @@
 
  
 ---
-
-### 🧠 About Me
-
 - 🎓M.Tech CSE Student @ VIT, passionate about deep learning and AI research
-- 🧪 Currently researching **Adversarial QR Code Security** & **Lightning Strike Prediction** for aviation safety
-- ⚡ Exploring the intersection of **Cybersecurity**, **Computer Vision**, **Machine Learning** and **Self-Supervised Learning**
-
----
-
-### 🔭 Current Projects
-
-- **DiffQuantumQR** → Novel adversarial QR detection using diffusion purification + quantum-inspired attention
-- **LightningRiskAI** → Real-time aviation lightning risk prediction using BiLSTM-GPR & flight rerouting
-
+- ⚡ Exploring the intersection of **Cybersecurity**, **Computer Vision**, **Machine Learning** and **AI**
 ---
 
 ---
@@ -27,7 +15,6 @@
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/s-asifa-896741250/)
 - 📬 asifareh8@gmail.com
-- 🛠️ [My Portfolio](https://github.com/asifa1510)
 
 ---
 
@@ -41,9 +28,7 @@
 <a href="https://github.com/asifa1510/RoverFailurePredictor"><img src="https://img.shields.io/badge/Rover_Predictive_Maintenance-white" /></a>
 
 
-# Your Name's GitHub Profile
 
-# S Asifa's GitHub Stats
 
 
 
