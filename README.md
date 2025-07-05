@@ -2,7 +2,7 @@
 <p align="center">
   <em>CS Undergrad | Researcher in Machine Learning </em> 
 </p>
-
+ 
 - 🎓M.Tech CSE Student @ VIT, passionate about deep learning and AI research
 - ⚡ Exploring the intersection of **Cybersecurity**, **Computer Vision**, **Machine Learning** and **AI** 
 ## 📫 Let's Connect
