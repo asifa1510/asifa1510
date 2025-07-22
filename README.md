@@ -1,8 +1,8 @@
-<p align= "center"> Hi 👋, I'm Asifa </p>
-<p align="center">
+ **Hi 👋, I'm Asifa** 
+ 
   <em>CS Undergrad | Researcher in Machine Learning </em> 
-</p>
-     
+
+    
 - 🎓M.Tech CSE Student @ VIT, passionate about deep learning and AI research    
 - ⚡ Exploring the intersection of **Cybersecurity**, **Computer Vision**, **Machine Learning** and **AI**
   
