@@ -1,4 +1,4 @@
-**Hi 👋, I'm Asifa** 
+<p align= "center">**Hi 👋, I'm Asifa** 
 <p align="center">
   <em>CS Undergrad | Researcher in Machine Learning </em> 
 </p>
