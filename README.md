@@ -1,4 +1,4 @@
-     Hi 👋, I'm Asifa
+      Hi 👋, I'm Asifa
  
  <em>CS Undergrad | Researcher in Machine Learning </em> 
  
