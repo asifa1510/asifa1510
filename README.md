@@ -1,6 +1,6 @@
     **Hi 👋, I'm Asifa** 
  
-  <em>CS Undergrad | Researcher in Machine Learning </em> 
+     <em>CS Undergrad | Researcher in Machine Learning </em> 
 
     
 - Passionate about deep learning and AI research    
