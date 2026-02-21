@@ -5,6 +5,7 @@
     
 - Passionate about deep learning and AI research    
 - Exploring the intersection of **LLM***s*, **Cybersecurity**, **Computer Vision**, **Machine Learning** and **AI**
+- Have been working on RAG , Agentic AI and understanding GPU Architecture
   
  **Connect with me**
 - 🌐 [LinkedIn](https://www.linkedin.com/in/s-asifa-896741250/)
